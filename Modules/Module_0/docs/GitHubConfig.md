@@ -1,3 +1,6 @@
+# Inspriational Art:
+https://xkcd.com/1597/
+
 # Setting up authenticated GitHub Access over HTTPS protocol
 Get GithubCLI (command line interface). Reference: [link](https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git#github-cli).  
 
