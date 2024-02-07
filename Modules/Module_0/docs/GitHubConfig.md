@@ -38,12 +38,12 @@ This is not required, but recommended to make sure we're all on the same setup.
 ```bash
 mkdir BIOS6644_GitHub
 cd BIOS6644_GitHub
-git clone https://github.com/BIOS6644/BIOS6644_Spring_2024.git
+git clone https://github.com/BIOS6644/BIOS6644Spring_2024.git
 ```
 This will download all the stuff that's there.  Now setup your branch:
 
 ```bash
-cd BIOS_6644_Spring_2024
+cd BIOS6644_Spring_2024
 git branch Your_Name
 git checkout Your_Name
 git push git push --set-upstream origin Your_Name # not an typo!  use git push!
