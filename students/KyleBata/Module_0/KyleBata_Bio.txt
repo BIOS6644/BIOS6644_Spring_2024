@@ -1,0 +1,5 @@
+How is it going? I'm Kyle Bata. I am a data nerd for the surgery department at CU Anschutz SoM. I mainly work with patient data and have a day to day tech stack of SQL, Excel, and Power BI. Sometimes I get to play around in R. I am starting to get into automation, so hoping to soon start dipping my toes into bash scripting, VBA, and all that fun stuff.
+
+ I grew up in Broomfield, did my undergrad in Steamboat (Mainly an excuse to snowboard all day), master's at UU, and now in Denver working at CU.
+
+ I am a grad cert student mainly because I get 9 free credits a year and it feels like a waste not to use them.
