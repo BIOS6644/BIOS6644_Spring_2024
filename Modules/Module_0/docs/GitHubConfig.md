@@ -1,9 +1,21 @@
-# Setting up authenticated GitHub Access over HTTPS protocol
+# Inspriational Art:
+https://xkcd.com/1597/
 
-- [ ] Open the following page and select your operating system:
-[link](https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git)
-    - This will have you install a github-specific command line tool called gh
+# Setting up authenticated GitHub Access over HTTPS protocol
+Get GithubCLI (command line interface). Reference: [link](https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git#github-cli).  
+
+Try the following first:
 - [ ] For Windows users, use powershell or cmd to do the following.  For mac & linux, use the regular terminal
+- Mac
+```bash
+   brew install gh
+```
+- Windows
+```powershell
+  winget install --id GitHub.cli
+```
+
+After GitHub CLI is installed, run:
 ```bash
 gh auth login
 ```
@@ -31,7 +43,7 @@ git clone https://github.com/BIOS6644/BIOS6644_Spring_2024.git
 This will download all the stuff that's there.  Now setup your branch:
 
 ```bash
-cd BIOS_6644_Spring_2024
+cd BIOS6644_Spring_2024
 git branch Your_Name
 git checkout Your_Name
 git push git push --set-upstream origin Your_Name # not an typo!  use git push!
@@ -74,7 +86,7 @@ git add .
 git commit -m"Module 0 submissions"
 git push
 ```
-  3) Upload the files via github's web page
+  2) Upload the files via github's web page
     - Dropdown menu--select your branch
     - Navigate to the drop folder
     - Click Add File --> Upload Files
