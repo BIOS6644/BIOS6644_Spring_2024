@@ -1,3 +1,6 @@
+# Inspriational Art:
+https://xkcd.com/1597/
+
 # Setting up authenticated GitHub Access over HTTPS protocol
 Get GithubCLI (command line interface). Reference: [link](https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git#github-cli).  
 
@@ -40,7 +43,7 @@ git clone https://github.com/BIOS6644/BIOS6644_Spring_2024.git
 This will download all the stuff that's there.  Now setup your branch:
 
 ```bash
-cd BIOS_6644_Spring_2024
+cd BIOS6644_Spring_2024
 git branch Your_Name
 git checkout Your_Name
 git push git push --set-upstream origin Your_Name # not an typo!  use git push!
