@@ -9,9 +9,6 @@
 		- I did this as a bookmark not realizing you'd see it immediately
 	- 
 
-# Inplace=True?
-
-see Module_1 notebook.
 
 # File Submission Convention
 I have been inconsistent in what I ask for--apologies.   From here out, please put all submissions into 
@@ -57,7 +54,11 @@ More time?
 ---
  
 # Remainder of time
-- 
+- python functions
+- inplace=True?
+
+see [Module_1 notebook](M1_BIOS6644_InplaceOrNot.ipynb](https://github.com/BIOS6644/BIOS6644_Spring_2024/blob/main/Modules/Module_1/docs/M1_BIOS6644_InplaceOrNot.ipynb "M1_BIOS6644_InplaceOrNot.ipynb")_.
+
  
 
 ---
