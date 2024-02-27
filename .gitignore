@@ -1,5 +1,10 @@
 # Stolen from https://github.com/github/gitignore/blob/main/Python.gitignore
 #
+# Ignore stuff in the Unpublished folder
+*.DS_Store*
+Submitted*
+Unpublished/*
+#
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

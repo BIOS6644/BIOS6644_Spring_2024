@@ -3,13 +3,14 @@
 ## Computing Environment Setup 
 ### Necessary
  * [git](https://git-scm.com/): A free and open source tool for distributed version control
- * [github.com](www.github.com) A site which your git will save your work so it can be easily shared
+ * [github.com](www.github.com) A site to which your git will save your work so it can be easily shared
  * [Anaconda](https://www.anaconda.com/download) A convenient bundle of python, jupyter, and virtually every library you'll ever need for data wrangling (and lots of other things).
 
 ### My typical setup (Nothing here required--I just find it handy):
  * Computer: Redhat Linux (at work), MacAir (other places)
  * Editor: [VSCode](https://code.visualstudio.com/), [vim](https://www.vim.org/), or [neovim](https://neovim.io/)
  * Shell:  [Oh My Zsh](https://ohmyz.sh/)
+ * Note taking: [Obsidian](https://obsidian.md)
 ---
 
 
@@ -30,6 +31,13 @@
 - [ ] Clone the class git repo on to the computer you'll use for this course.
 ```bash
 >  git clone git@github.com:pulsetracker/BIOS6644_Spring_2024.git
+
+I the one above fails (Windows users?), try instead:
+>  git clone https://github.com/BIOS6644/BIOS6644_Spring_2024.git 
+```
+```bash
+> # This "clone" will make a new folder called BIOS6644_Spring_2024
+> cd BIOS6644_Spring_2024   # "change directory" (cd) into it.
 ```
 
 - [ ] Make a branch with your username, and check it out (activate it)
@@ -41,7 +49,7 @@ For the duration of this course, you should always work within this branch (You 
 
 - [ ] Set the branch with your name as the github default for you
 ```bash
-> git push --set-upstream origin James_King
+> git branch --set-upstream origin James_King
 ```
 
 This makes it so that anytime you add anything, it goes into the branch with your name.  That prevents us from stepping on each other's files.
