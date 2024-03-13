@@ -4,7 +4,11 @@
 13 March 2024
 
 # Welcome Back
-Next week is Spring Break
+Next week is Spring Break!
+No Meeting
+I'll be on vacation the week after.  Possibility of cancellation due to bad connections, etc.   But I will put up recordings, answer emails, etc.
+* [MedRecs 2](https://github.com/BIOS6644/BIOS6644_Spring_2024/blob/main/Modules/Module_1/assignments/M1_BIOS6644_MedRecs2_YourName.ipynb) Available along with [my solution](https://github.com/BIOS6644/BIOS6644_Spring_2024/blob/main/Modules/Module_1/docs/M1_BIOS6644_MedRecs2_JamesKing.ipynb) (Optional)
+* [MedRecsSQL](https://github.com/BIOS6644/BIOS6644_Spring_2024/blob/main/Modules/Module_1/assignments/M1_BIOS6644_MedRecs_SQL_YourName.ipynb "M1_BIOS6644_MedRecs_SQL_YourName.ipynb") Available for Kyle (Info Only)
 
 # Updates
 - Lots of updates!  Do a pull 
@@ -53,4 +57,5 @@ Due 18 March (Hard Deadline).  10pts: Pass/Fail
 -  [syllabus](https://ucdenver.instructure.com/courses/533986/assignments/syllabus)
 - [ MedRecs Assignment](https://github.com/BIOS6644/BIOS6644_Spring_2024/blob/main/Modules/Module_1/assignments/M1_BIOS6644_MedRecs_YourName.ipynb)
 - [List Comprehensions Details](https://github.com/BIOS6644/BIOS6644_Spring_2024/blob/main/Modules/Module_1/docs/M1_List_Comprehensions.ipynb)
+- [Winging a Wrangle](https://github.com/BIOS6644/BIOS6644_Spring_2024/blob/main/Modules/Module_1/docs/M1_BIOS6644_MedRecs3_LabTiming.ipynb "M1_BIOS6644_MedRecs3_LabTiming.ipynb")
 
