@@ -1,0 +1,22 @@
+B0 = '99'
+B1 = '98'
+B2 = ' bottles of beer'
+B3 = ' on the wall'
+B4 = 'you take one down, pass it around'
+
+print(B0+B2+B3)
+print('\t'+B0+B2)           # '\t' is a tab character
+print(B4+'\n'+'\t'+B0+B2+B3)# '\n' is a newline character
+99 bottles of beer on the wall
+	99 bottles of beer
+you take one down, pass it around
+	99 bottles of beer on the wall
+#student version
+B1 = '98'
+B2 = ' bottles of beer'
+B3 = ' on the wall'
+B4 = 'you take one down, pass it around'
+
+print(B1+B2+B3)
+print('\t'+B1+B2)           # '\t' is a tab character
+print(B4+'\n'+'\t'+B1+B2+B3)# '\n' is a newline character
