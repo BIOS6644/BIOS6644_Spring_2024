@@ -1,0 +1,22 @@
+Due 18 March (Hard Deadline).  10pts: Pass/Fail
+
+- A couple sentences on the nature of your proposed project and (if appropriate) how it relates to your real-life work or interests.
+
+- Convince me that you have appropriate data available.
+
+- Convince me that there is some kind of relevant wrangling involved.
+
+
+
+Joanna Garcia
+Project Proposal
+BIOS 6644
+Professor King
+
+My project will focus on wrangling data for my capstone which I will complete this summer. 
+The data I will use is the Colorado Health Institute's (CHI) Colorado Health Access Survey (CHAS) data. This data is publicly available ensuring I have access to the data. 
+In addition, my preceptor is an employee at CHI who is also able to provide the data as necessary. 
+My capstone will focus on the relationship between housing stability and mental health, and understanign if housing stability is a protective factor against poor mental health. 
+I hope to use this project to wrangle only the necessary data for my capstone and help create a workable data set for the analysis I will conduct. 
+The CHAS dataset includes all sorts of data from the diverse questions asked to have a comprehensive understanding of the state of health of Coloradans. 
+This project would allow me to focus on the topics that are pertenant to the research question I am pursuing for my capstone. 
