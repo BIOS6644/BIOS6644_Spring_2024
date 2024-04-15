@@ -1,0 +1,10 @@
+Project Proposal - GitHub
+
+
+For this project, I aim to choose a dataset complex enough to demonstrate various challenges with data cleaning, transformation, 
+and manipulation. I do not have a job presently that would provide me with data to perform this task so I’m choosing publicly available data 
+to work with. The data I intend to work with is an Airbnb listings dataset containing information about listings in Chicago. The dataset 
+includes a variety of data types, missing values, inconsistencies, and outliers so I hope it will be a comprehensive data wrangle.
+
+Some potential challenges for data wrangling include missing values, inconsistent data types (e.g., prices listed as strings), outliers, data transformations (e.g., calculating the price per bedroom), data aggregation to aggregate data to analyze neighborhood-wise statistics, and potentially merging with external data (introducing a second dataset like neighborhood demographics and merging it with the Airbnb dataset. These are just a few examples of wrangles I could do on the data but there are others as well.
+
