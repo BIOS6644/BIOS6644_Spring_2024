@@ -19,6 +19,9 @@
 # For the rest of class
 ## Exam Observations
   
+- My [solution](https://github.com/BIOS6644/BIOS6644_Spring_2024/blob/main/Exam/JamesKing_BIOS6644_Exam_2024.ipynb)
+
+Notes
 - Not all countries are referenced by the same name across both data sets
 - "0" is applied for small amounts of imports, even those that are not 0.  This could theoretically distort per-capita rates for very small countries.
 - Years didn't match!  One student did a fairly rigorous attempt to solve this problem by projecting population growth.
