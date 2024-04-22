@@ -7,7 +7,11 @@
 Some are missing.  I'll look into it this week.
 
 
+<<<<<<< HEAD
 # Exam is Graded
+=======
+# Proposals are graded
+>>>>>>> df59f29064972e0ac83f0dfd3789c730e3241df7
 - Fixed my solution.  Includes a bar plot--will show shortly
 ---
 # Project Proposals

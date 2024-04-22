@@ -21,6 +21,7 @@
   
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 - My [solution](https://github.com/BIOS6644/BIOS6644_Spring_2024/blob/main/Exam/JamesKing_BIOS6644_Exam_2024.ipynb)
 
@@ -31,6 +32,11 @@ Notes
 
 Notes
 >>>>>>> 194998be3b31046bf098e2fa62a16f3ad2c6822f
+=======
+- My [solution](https://github.com/BIOS6644/BIOS6644_Spring_2024/blob/main/Exam/JamesKing_BIOS6644_Exam_2024.ipynb)
+
+Notes
+>>>>>>> df59f29064972e0ac83f0dfd3789c730e3241df7
 - Not all countries are referenced by the same name across both data sets
 - "0" is applied for small amounts of imports, even those that are not 0.  This could theoretically distort per-capita rates for very small countries.
 - Years didn't match!  One student did a fairly rigorous attempt to solve this problem by projecting population growth.
