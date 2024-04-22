@@ -20,6 +20,12 @@
 ## Exam Observations
   
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+- My [solution](https://github.com/BIOS6644/BIOS6644_Spring_2024/blob/main/Exam/JamesKing_BIOS6644_Exam_2024.ipynb)
+
+Notes
+>>>>>>> 194998be3b31046bf098e2fa62a16f3ad2c6822f
 =======
 - My [solution](https://github.com/BIOS6644/BIOS6644_Spring_2024/blob/main/Exam/JamesKing_BIOS6644_Exam_2024.ipynb)
 
