@@ -20,3 +20,19 @@ My capstone will focus on the relationship between housing stability and mental 
 I hope to use this project to wrangle only the necessary data for my capstone and help create a workable data set for the analysis I will conduct. 
 The CHAS dataset includes all sorts of data from the diverse questions asked to have a comprehensive understanding of the state of health of Coloradans. 
 This project would allow me to focus on the topics that are pertenant to the research question I am pursuing for my capstone. 
+
+
+
+project notes from prof. 
+- do something that is useful for the research
+- needs to be something 
+- doesnt need to be anything extravagant
+
+- presenting: show the notebook with the structure, how the data was received, the intent, and what i achieved
+
+
+
+e.g.
+- combining 2 data sets together
+- looking at field and extracting dummy variables
+- 
