@@ -7,7 +7,7 @@
 Some are missing.  I'll look into it this week.
 
 
-# Exam is Graded
+# Proposals are graded
 - Fixed my solution.  Includes a bar plot--will show shortly
 ---
 # Project Proposals
