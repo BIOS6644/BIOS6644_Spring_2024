@@ -45,6 +45,7 @@ Due 15 May (Flex around your presentation schedule)
 
 #  Assignment
 - [EEG wrangling](https://ucdenver.instructure.com/courses/533986/assignments/1715961)  Due 30 April (This Wednesday)
+- If you're struggling with getting the data unzipped correctly, use the [data file which I added to the github archive](https://github.com/BIOS6644/BIOS6644_Spring_2024/blob/main/Modules/Module_2/Data/co2a0000364.rd.000)
 # For the rest of class
 [RegEx Part 2](https://github.com/BIOS6644/BIOS6644_Spring_2024/blob/main/Modules/Module_2/JamesKing_BIOS6644_RegEx_Transcription_Search.ipynb)
 
