@@ -1,0 +1,8 @@
+
+
+Hello.  I'm James. I'm a professional data scientist working primarily in the fields of signal processing and remote sensing.
+
+I grew up in the suburbs of Denver and have lived in many other locations throughout my career.  I presently live in the historical county of Yorkshire in the United Kingdom.
+
+I am an adjunct member of the Biostats department at the CSPH and I developed this course scratch in 2019.
+ 
