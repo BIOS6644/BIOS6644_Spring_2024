@@ -2,6 +2,7 @@
 #
 # Ignore stuff in the Unpublished folder
 *.DS_Store*
+Modules/Module_2/Data/eeg+database/*
 Submitted*
 Unpublished/*
 #
